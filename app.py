@@ -261,7 +261,7 @@ def main():
                 # Delay to ensure full audio playback (approx. 6 seconds for 10 words)
                 time.sleep(6)
                 name_placeholder.empty()
-                st.experimental_rerun()
+               
 
     # Show "Record" button and key highlights after name is entered
     else:
