@@ -8,7 +8,7 @@ import tempfile
 import base64
 
 # OpenRouter API setup
-OR_API_KEY = "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"
+OR_API_KEY = "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"
 OR_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Speech-to-Text (STT) Component
